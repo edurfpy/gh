@@ -6,6 +6,7 @@ authors = ["Eduardo Rivero <edu.ice@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+numpy = "^1.23.5"
 
 [tool.poetry.dev-dependencies]
 
